@@ -8,8 +8,6 @@
 
 📬 You can connect with me on [LinkedIn](https://www.linkedin.com/in/jonphey/).
 
-Don't hesitate to reach out! 💬
-
 <!--
 **j-phey/j-phey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
