@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Hi there, I'm Jon! ✨
+
+🚀 I'm a passionate software engineer with a focus on web applications and building clean user interfaces. While I'm trained as a full stack developer, my passion lies in frontend development. I use technologies such as HTML, CSS, JavaScript, and modern frameworks like React and Vue.js. I also have experience with back-end development using Node.js, Express, and database technologies such as MongoDB and PostgreSQL.
+
+🌱 My background is in tech sales and customer experience, most recently at [Slack](https://slack.com/), and I've recently obtained a diploma through [Coder Academy](https://coderacademy.edu.au/) (take a look at what I built below!).
+
+💼 Currently, I'm open to collaborating and speaking to companies about how I can build experiences that delight your customers, so feel free to reach out!
+
+📬 You can connect with me on [LinkedIn](https://www.linkedin.com/in/jonphey/).
+
+Don't hesitate to reach out! 💬
 
 <!--
 **j-phey/j-phey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
