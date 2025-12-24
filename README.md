@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Jon! ✨
 
-🚀 I'm a passionate software engineer with a focus on web applications and building clean user interfaces. While I'm trained as a full stack developer, my passion lies in frontend development. I use technologies such as HTML, CSS, JavaScript, and modern frameworks like React and Vue.js. I also have experience with back-end development using Node.js, Express, and database technologies such as MongoDB and PostgreSQL.
+🚀 I'm a passionate about web applications with clean user interfaces. While I'm trained as a full stack developer, my passion lies in frontend development. I use technologies such as HTML, CSS, JavaScript, and modern frameworks like React and Vue.js. I also have experience with back-end development using Node.js, Express, and database technologies such as MongoDB and PostgreSQL.
 
-🌱 My background is in tech sales and customer support, most recently at [Vercel](https://vercel.com/) and [Slack](https://slack.com/), and I've recently obtained a diploma through [Coder Academy](https://coderacademy.edu.au/) (take a look at what I built below!).
+🌱 My professional background is in tech sales and customer support, most recently at [Vercel](https://vercel.com/) and [Slack](https://slack.com/), and I've recently obtained a diploma through [Coder Academy](https://coderacademy.edu.au/) (take a look at what I built below!).
 
 📬 You can connect with me on [LinkedIn](https://www.linkedin.com/in/jonphey/).
 
